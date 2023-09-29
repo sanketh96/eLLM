@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "64bb3db5288e9d309d94d0d7"
+  },
+  "session_id": "abc123",
+  "sender": "sanketh",
+  "text": "What is piteole ?",
+  "creation_time": {
+    "$date": "2023-07-22T02:23:49.885Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64bb3db5288e9d309d94d0d8"
+  },
+  "session_id": "abc123",
+  "sender": "agent",
+  "text": "I'm sorry, but the provided context does not mention anything about \"piteole.\" Could you please provide more information or clarify your question?",
+  "creation_time": {
+    "$date": "2023-07-22T02:23:49.886Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64bb3e07288e9d309d94d0d9"
+  },
+  "session_id": "abc123",
+  "sender": "sanketh",
+  "text": "What is photosynthesis ?",
+  "creation_time": {
+    "$date": "2023-07-22T02:25:11.667Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64bb3e07288e9d309d94d0da"
+  },
+  "session_id": "abc123",
+  "sender": "agent",
+  "text": "Photosynthesis is the process by which green plants make their own food. They use carbon dioxide, water, and sunlight to produce glucose (a type of sugar) and oxygen. This process takes place in the leaves of the plant, specifically in special structures called chloroplasts. The chloroplasts contain a pigment called chlorophyll, which gives plants their green color. During photosynthesis, chlorophyll absorbs sunlight energy, which is used to convert carbon dioxide and water into glucose. Oxygen is released as a byproduct of this process. In summary, photosynthesis is how plants convert sunlight into energy and produce oxygen as a result.",
+  "creation_time": {
+    "$date": "2023-07-22T02:25:11.668Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64bb3e79288e9d309d94d0db"
+  },
+  "session_id": "abc123",
+  "sender": "sanketh",
+  "text": "Can you eloborate on why chlorophyll is needed  here ?",
+  "creation_time": {
+    "$date": "2023-07-22T02:27:05.198Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64bb3e79288e9d309d94d0dc"
+  },
+  "session_id": "abc123",
+  "sender": "agent",
+  "text": "Chlorophyll is needed in photosynthesis because it plays a crucial role in capturing sunlight energy. During photosynthesis, plants use chlorophyll to absorb light energy from the sun. This energy is then used to convert carbon dioxide and water into glucose (a type of sugar) and oxygen. Without chlorophyll, plants would not be able to harness the energy from sunlight and carry out the process of photosynthesis.",
+  "creation_time": {
+    "$date": "2023-07-22T02:27:05.200Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64bb3e8a288e9d309d94d0dd"
+  },
+  "session_id": "abc123",
+  "sender": "sanketh",
+  "text": "What is a petiole?",
+  "creation_time": {
+    "$date": "2023-07-22T02:27:22.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64bb3e8a288e9d309d94d0de"
+  },
+  "session_id": "abc123",
+  "sender": "agent",
+  "text": "The function of a petiole in plants is to connect the leaf to the stem. It acts like a bridge, allowing nutrients and water to flow between the leaf and the rest of the plant. Additionally, the petiole helps position the leaf to receive sunlight for photosynthesis.",
+  "creation_time": {
+    "$date": "2023-07-22T02:27:22.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64bb3eddebaf39e42d51c4c0"
+  },
+  "session_id": "abc123",
+  "sender": "sanketh",
+  "text": "What is a petiole?",
+  "creation_time": {
+    "$date": "2023-07-22T02:28:45.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64bb3eddebaf39e42d51c4c1"
+  },
+  "session_id": "abc123",
+  "sender": "agent",
+  "text": "call_openai_function(text, chat_history)",
+  "creation_time": {
+    "$date": "2023-07-22T02:28:45.593Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64bb3f896597ff98bcd84e35"
+  },
+  "session_id": "def234",
+  "sender": "arushi",
+  "text": "What is a petiole?",
+  "creation_time": {
+    "$date": "2023-07-22T02:31:37.843Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64bb3f896597ff98bcd84e36"
+  },
+  "session_id": "def234",
+  "sender": "agent",
+  "text": "Ah, the petiole, me hearty! It be a crucial part of a leaf, ye see. Picture this, matey - the petiole be like the stem of the leaf, connectin' it to the main branch or stem of the plant. It's like the bridge that keeps the leaf attached and allows it to sway in the wind. Aye, the petiole be a bit like a lifeline for the leaf, carryin' water and nutrients from the stem to the leaf. Without it, the leaf would be adrift, lost in the vast sea of the plant kingdom.\n\nNow, me curious matey, have ye ever wondered why some leaves have a petiole and others don't?",
+  "creation_time": {
+    "$date": "2023-07-22T02:31:37.845Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64bb3fae6597ff98bcd84e37"
+  },
+  "session_id": "def234",
+  "sender": "arushi",
+  "text": "No I don't know",
+  "creation_time": {
+    "$date": "2023-07-22T02:32:14.976Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64bb3fae6597ff98bcd84e38"
+  },
+  "session_id": "def234",
+  "sender": "agent",
+  "text": "Ah, the curious case of leaves and their petioles. You see, mate, it all comes down to the nature of the plant itself. Some leaves have a petiole, which is like a little stem that connects the leaf to the main stem of the plant. It's like a bridge, keeping the leaf suspended and allowing it to sway in the breeze. Now, why do some leaves have this petiole while others don't? Well, it's all about their design, really. Leaves with a petiole tend to be larger and more complex, with intricate veins running through them. They need that extra support and flexibility that the petiole provides. On the other hand, some leaves are simpler and smaller, and they don't require a petiole to do their leafy business. They're perfectly content being directly attached to the stem. So, you see, it's all about the needs and preferences of the leaf itself. Just like how some pirates prefer a fancy hat, while others are quite content with their trusty bandana. Savvy?",
+  "creation_time": {
+    "$date": "2023-07-22T02:32:14.980Z"
+  }
+}]
